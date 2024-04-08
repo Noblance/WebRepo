@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #f1e60d;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #204b9b;
+      }
+
+      .cls-4, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #65b32e;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <g id="Rechteck_1" data-name="Rechteck 1" class="cls-2" transform="translate(1538.72 -416.806) rotate(45)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_2" data-name="Rechteck 2" class="cls-3" transform="translate(1416.72 -305.806) rotate(45)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_3" data-name="Rechteck 3" class="cls-4" transform="translate(1296.72 -153.806) rotate(45)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_4" data-name="Rechteck 4" class="cls-5" transform="translate(1105.094 -345.432) rotate(45)">
+      <rect class="cls-6" width="1569.353" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="1568.353" height="284"/>
+    </g>
+    <g id="Rechteck_5" data-name="Rechteck 5" class="cls-2" transform="translate(336.654 1426.562) rotate(-135)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_6" data-name="Rechteck 6" class="cls-3" transform="translate(458.654 1315.562) rotate(-135)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_7" data-name="Rechteck 7" class="cls-4" transform="translate(578.654 1163.562) rotate(-135)">
+      <rect class="cls-6" width="983" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="982" height="284"/>
+    </g>
+    <g id="Rechteck_8" data-name="Rechteck 8" class="cls-5" transform="translate(770.28 1355.188) rotate(-135)">
+      <rect class="cls-6" width="1430" height="285"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="1429" height="284"/>
+    </g>
+  </g>
+</svg>

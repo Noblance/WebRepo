@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.32 35.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #66b32e;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 6px;
+      }
+
+      .cls-10, .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        fill: #2a4b9b;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: #f3e600;
+      }
+
+      .cls-13 {
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M46.58,17.61V0h-3.91l-.08.12-2.36,8.81.71-1.04c.74-1.31,2.22-1.22,2.22.26v9.46h-5.25l-.8,3.01h6.06v7.72h3.42v-7.72h3.74v-3.01h-3.74Z"/>
+    <path class="cls-3" d="M42.67,3.06l-1.74,4.83,1.74-4.83Z"/>
+    <path class="cls-5" d="M7.8,16.22l2.72-8.03c.34-1.09.62-2.17.9-3.25l-1.52-4.94L.48,27.74h3.7l2.88-8.73h8.71l-.86-2.8h-7.1Z"/>
+    <path class="cls-4" d="M16.87,27.74L9.83,0h3.79l3.29,14.04c.82,3.46,1.56,6.91,2.06,9.59h.08c.45-2.76,1.32-6.05,2.27-9.63L25.02,0h3.75l3.37,14.08c.78,3.29,1.52,6.59,1.93,9.51h.08c.58-3.04,1.36-6.13,2.23-9.59l3.66-13.99h3.66l-7.86,27.74h-3.75l-3.5-14.45c-.86-3.54-1.44-6.26-1.81-9.06h-.08c-.5,2.76-1.11,5.47-2.14,9.06l-3.95,14.45h-3.75Z"/>
+  </g>
+  <line class="cls-2" y1="13.51" x2=".13" y2="10.33"/>
+  <text class="cls-10" transform="translate(2.83 34.04)"><tspan class="cls-9" x="0" y="0">A</tspan><tspan class="cls-6" x="3.65" y="0">ktion</tspan><tspan class="cls-11" x="16.48" y="0"> </tspan><tspan class="cls-12" x="17.54" y="0">W</tspan><tspan x="22.42" y="0">aldvie</tspan><tspan class="cls-13" x="37.4" y="0">r</tspan><tspan class="cls-8" x="39.51" y="0">t</tspan><tspan class="cls-7" x="41.46" y="0">el</tspan></text>
+</svg>
