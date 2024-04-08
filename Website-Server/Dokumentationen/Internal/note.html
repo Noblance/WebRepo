@@ -36,7 +36,7 @@
     <h1>Signature Beschreibung</h1>
 </div>
 <div class="container-md mb-4">
-    <p>Signature ist eine Markup-Language, die einen Relativ einfachen Aufbau hat. Der Syntax wird in HTML umcompiled damit jeder es öffnen kann. Man muss für jede Zeile eine Definition machen. z.B.:</p>
+    <p>Signature ist eine Markup-Language, die einen Relativ (starken) einfachen Aufbau hat. Der Syntax wird in HTML umcompiled damit jeder es öffnen kann. Man muss für jede Zeile eine Definition machen. z.B.:</p>
     <code>
         1<<<; <br>
         d:Hallo Welt;<br>
@@ -47,11 +47,39 @@
     <code>
         home; -> Im Notebook setzt er dass aufs Rootverzeichnis; Erzeugt einen Link auf die "Home" Seite <br>
         style: Arial; -> Hier kann man seine Font-Family einstellen <br>
+        name: name; -> Name der Datei/der Notiz
+        <hr>
         1<<<; -> Macht eine Reihe <br>
         <<<; -> Macht eine Reihe zu und dazu noch eine auf, sie macht aber letztere nicht wieder zu <br>
         1>>>; -> Macht eine Reihe zu <br>
-        d: Text; -> Normaler Text <br>
-        db: dicker Text -> Dicker Text
+        <hr>
+        spac; -> Ein HTML break <br>
+        &scs -> Semicolon
+        &ncs -> Colon
+        <hr>
+        d: Text; <br>
+        db: dicker Text;<br>
+        dh: Überschrift;<br>
+        dhb: dicke Überschrift;<br>
+        <hr>
+        g: grüner Text; <br>
+        gb: grüner dicker Text;<br>
+        gh: grüne Überschrift;<br>
+        ghb: grüne dicke Überschrift;<br>
+        <hr>
+        r: roter Text; <br>
+        rb: roter dicker Text;<br>
+        rh: rote Überschrift;<br>
+        rhb: rote dicke Überschrift;<br>
+        <hr>
+        b: blauer Text; <br>
+        bb: blauer dicker Text;<br>
+        bh: blaue Überschrift;<br>
+        bhb: blaue dicke Überschrift;<br>
+        <hr>
+        code: code; -> Schriftart für Code oder Befehle
+        forw: html-code; -> Da dieser Syntax in HTML-Code übersetzt wird kann der eingetragene Code geforwardet werden
+
     </code>
     <p>Es gibt bis jetzt noch keine IDE (oder - Extension) für diese Sprache, weitere Informationen können in GitHub gefunden werden.</p>
 </div>
