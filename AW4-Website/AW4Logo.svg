@@ -1,71 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.32 35.54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #66b32e;
-      }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
-        stroke-width: 0px;
-      }
-
-      .cls-6 {
-        letter-spacing: 0em;
-      }
-
-      .cls-2 {
-        fill: none;
-      }
-
-      .cls-7 {
-        letter-spacing: 0em;
-      }
-
-      .cls-8 {
-        letter-spacing: 0em;
-      }
-
-      .cls-9 {
-        letter-spacing: 0em;
-      }
-
-      .cls-10 {
-        font-family: MyriadPro-Regular, 'Myriad Pro';
-        font-size: 6px;
-      }
-
-      .cls-10, .cls-3 {
-        fill: #1d1d1b;
-      }
-
-      .cls-11 {
-        letter-spacing: -.04em;
-      }
-
-      .cls-4 {
-        fill: #2a4b9b;
-      }
-
-      .cls-12 {
-        letter-spacing: -.03em;
-      }
-
-      .cls-5 {
-        fill: #f3e600;
-      }
-
-      .cls-13 {
-        letter-spacing: .02em;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="cls-1" d="M46.58,17.61V0h-3.91l-.08.12-2.36,8.81.71-1.04c.74-1.31,2.22-1.22,2.22.26v9.46h-5.25l-.8,3.01h6.06v7.72h3.42v-7.72h3.74v-3.01h-3.74Z"/>
-    <path class="cls-3" d="M42.67,3.06l-1.74,4.83,1.74-4.83Z"/>
-    <path class="cls-5" d="M7.8,16.22l2.72-8.03c.34-1.09.62-2.17.9-3.25l-1.52-4.94L.48,27.74h3.7l2.88-8.73h8.71l-.86-2.8h-7.1Z"/>
-    <path class="cls-4" d="M16.87,27.74L9.83,0h3.79l3.29,14.04c.82,3.46,1.56,6.91,2.06,9.59h.08c.45-2.76,1.32-6.05,2.27-9.63L25.02,0h3.75l3.37,14.08c.78,3.29,1.52,6.59,1.93,9.51h.08c.58-3.04,1.36-6.13,2.23-9.59l3.66-13.99h3.66l-7.86,27.74h-3.75l-3.5-14.45c-.86-3.54-1.44-6.26-1.81-9.06h-.08c-.5,2.76-1.11,5.47-2.14,9.06l-3.95,14.45h-3.75Z"/>
+<svg
+   width="33.031502mm"
+   height="14.068838mm"
+   viewBox="0 0 33.031502 14.068838"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="AW4Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.2079202"
+     inkscape:cx="-30.062357"
+     inkscape:cy="51.331772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.050535,-84.924216)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="19.022974"
+       y="98.9431"
+       id="text17935"><tspan
+         sodipodi:role="line"
+         id="tspan17933"
+         style="stroke-width:0.264583"
+         x="19.022974"
+         y="98.9431">Aktion: Waldviertel</tspan></text>
+    <g
+       aria-label="AW4"
+       id="text957"
+       style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583">
+      <g
+         id="g112656">
+        <path
+           id="path112485"
+           style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#65b32e;fill-opacity:1;stroke-width:0.0700042"
+           d="m 40.492065,85.264764 -0.556556,2.21692 1.054197,-1.647963 v 4.118613 h -1.675349 l -0.218072,0.868164 h 1.893421 v 1.81901 h 1.038699 v -1.81901 h 1.100706 v -0.868164 h -1.100706 v -5.028118 h -1.312582 z" />
+        <g
+           id="g112650">
+          <path
+             d="m 31.538118,85.952573 -1.41593,3.839547 h 2.837027 z m -0.58911,-1.028357 0.58911,1.028357 2.449455,6.686909 v 0 l -0.702797,-1.979201 h -3.477813 l -0.702797,1.979201 h -1.100705 z"
+             style="fill:#f1e60d"
+             id="path87503"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <path
+             d="m 30.949008,84.924216 h 1.054196 l 1.622635,6.519397 1.617467,-6.519397 h 1.173051 l 1.622635,6.519397 1.617467,-6.519397 h 1.059364 l -1.93786,7.712725 h -1.312578 l -1.627802,-6.695039 -1.643305,6.695039 H 32.8817 Z"
+             style="fill:#204b9b;stroke-width:0.264539"
+             id="path87505" />
+        </g>
+      </g>
+    </g>
   </g>
-  <line class="cls-2" y1="13.51" x2=".13" y2="10.33"/>
-  <text class="cls-10" transform="translate(2.83 34.04)"><tspan class="cls-9" x="0" y="0">A</tspan><tspan class="cls-6" x="3.65" y="0">ktion</tspan><tspan class="cls-11" x="16.48" y="0"> </tspan><tspan class="cls-12" x="17.54" y="0">W</tspan><tspan x="22.42" y="0">aldvie</tspan><tspan class="cls-13" x="37.4" y="0">r</tspan><tspan class="cls-8" x="39.51" y="0">t</tspan><tspan class="cls-7" x="41.46" y="0">el</tspan></text>
 </svg>
